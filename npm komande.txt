@@ -1,0 +1,6 @@
+onStartProject
+-npm install 
+-npm run start
+inProject
+-npx create-react-app
+-npm install react-icons
